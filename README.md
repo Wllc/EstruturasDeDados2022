@@ -1,7 +1,7 @@
 # Estruturas de Dados com JavaScript xD
+Professor: Taniro Rodrigues. Github:https://github.com/taniro
 
 Este reposítório contém todos códigos utilizados durante a disciplina de Estruturas de Dados do curso de Análise e Desenvolvimento de Sistemas/UFRN no semestre 2022.1.
-Professor: Taniro Rodrigues. Github:https://github.com/taniro
 A disciplina de Estruturas de dados segue uma abordagem de desenvolvimento dirigido as testes (TDD) onde para cada Tipo Abstrato de Dados:
 
 1. Será descrito o Tipo Abstrato de Dados e suas funções independente de saber como elas são implementadas ou como os dados serão armazenados.
