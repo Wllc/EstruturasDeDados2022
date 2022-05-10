@@ -1,5 +1,6 @@
 # Estruturas de Dados com JavaScript xD
 Professor: Taniro Rodrigues. 
+
 Github: https://github.com/taniro
 
 Este reposítório contém todos códigos utilizados durante a disciplina de Estruturas de Dados do curso de Análise e Desenvolvimento de Sistemas/UFRN no semestre 2022.1.
